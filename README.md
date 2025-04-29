@@ -1,5 +1,5 @@
 # FRONTEND
-This is the frontend mobile application for Group 17's app, built with React Native.
+This is the frontend mobile application for Group 17's app, built with React Native and Figma
 
 ## Tech Stack
 - React Native
