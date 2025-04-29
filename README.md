@@ -9,9 +9,9 @@ This is the frontend mobile application for Group 17's app, built with React Nat
 
 ## Team Roles
 - 3 Frontend Developers
-= Project Manager
+- Project Manager
 
 ## TODO
 - Implement navigation
-= Connect to backend API
+- Connect to backend API
 - Integrate push notifications
